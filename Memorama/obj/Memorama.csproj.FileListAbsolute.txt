@@ -1,0 +1,23 @@
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\bin\Debug\Memorama.exe
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\bin\Debug\Memorama.pdb
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\Memorama.Form1.resources
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\Memorama.Properties.Resources.resources
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\Memorama.csproj.GenerateResource.Cache
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\Memorama.exe
+C:\Documents and Settings\OEM System\Escritorio\Memorama\Memorama\obj\Debug\Memorama.pdb
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.exe
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.pdb
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\bin\Debug\Memorama.exe.manifest
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\bin\Debug\Memorama.application
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\bin\Debug\Memorama.exe
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\bin\Debug\Memorama.pdb
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.Form1.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.Properties.Resources.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.csproj.GenerateResource.Cache
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.exe.manifest
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.application
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.ContraCompu.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.Records.resources
+D:\Mis documentos\Mis Canas Verdes\HK P Libros\4 Semestre\Organizacion de Datos\Memorama\Memorama\obj\Debug\Memorama.AcercaDe.resources

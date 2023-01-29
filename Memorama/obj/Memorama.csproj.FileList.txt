@@ -1,0 +1,15 @@
+obj\Debug\Memorama.exe
+obj\Debug\Memorama.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Memorama.ContraCompu.resources
+obj\Debug\Memorama.Form1.resources
+obj\Debug\Memorama.Properties.Resources.resources
+obj\Debug\Memorama.csproj.GenerateResource.Cache
+bin\Debug\Memorama.exe.manifest
+bin\Debug\Memorama.application
+bin\Debug\Memorama.exe
+bin\Debug\Memorama.pdb
+obj\Debug\Memorama.exe.manifest
+obj\Debug\Memorama.application
+obj\Debug\Memorama.Records.resources
+obj\Debug\Memorama.AcercaDe.resources
